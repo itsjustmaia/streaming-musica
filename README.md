@@ -84,8 +84,8 @@ java -cp out br.com.streaming.principal.StreamingMusica
 
 ## 👤 Autor
 
-- **Nome:** [Seu Nome]
-- **RA:** [Seu RA]
+- **Nome:** Pedro Henrique Maia Jordão
+- **RA:** 45265844
 
 ---
 
